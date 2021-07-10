@@ -27,5 +27,5 @@ mongoose.connect(
 );
 
 //listen in server
-app.listen(3000); 
+app.listen(port); 
 
