@@ -14,7 +14,7 @@ app.use ('/posts', postsRoute);
 
 //routes
 app.get('/', (req, res) => {
-    res.send ('home page');
+    res.send ('This is a phonebook app');
 });
 
 
